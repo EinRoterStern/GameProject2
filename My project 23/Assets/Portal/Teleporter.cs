@@ -1,8 +1,17 @@
-﻿using UnityEngine;
+﻿using System.Collections;
+using UnityEngine;
 
 public class Teleporter : MonoBehaviour
 {
     public Teleporter Other;
+    public float offsetDistance = 5.0f; // Добавьте это поле для управления смещением
+    public float disableTime = 1.0f; // Время отключения триггера после телепортации
+    private Collider myCollider;
+
+    private void Start()
+    {
+        myCollider = GetComponent<Collider>();
+    }
 
     private void OnTriggerStay(Collider other)
     {
@@ -22,20 +31,20 @@ public class Teleporter : MonoBehaviour
             return;
         }
 
-        // Use the position of the Other Teleporter
-        Vector3 localPos = Other.transform.worldToLocalMatrix.MultiplyPoint3x4(obj.position);
-        localPos = new Vector3(-(localPos.x), localPos.y, -(localPos.z));
-
-        // Adjust the y-coordinate based on the height of your world
-        float worldHeight = 20.0f; // Update with the actual height of your world
-        localPos.y = Mathf.Clamp(localPos.y, 0, worldHeight);
-
-        Vector3 newPosition = Other.transform.localToWorldMatrix.MultiplyPoint3x4(localPos) + Other.transform.forward * 5.0f;
-
-        // Set the new position
-        obj.position = newPosition;
+        // Set the new position with a forward offset
+        obj.position = Other.transform.position + Other.transform.forward * offsetDistance;
 
         // Set the new rotation
         obj.rotation = Other.transform.rotation * Quaternion.Euler(0, 180, 0);
+
+        // Disable the Other's collider for a short time
+        StartCoroutine(DisableCollider(Other.myCollider));
+    }
+
+    private IEnumerator DisableCollider(Collider collider)
+    {
+        collider.enabled = false;
+        yield return new WaitForSeconds(disableTime);
+        collider.enabled = true;
     }
 }
