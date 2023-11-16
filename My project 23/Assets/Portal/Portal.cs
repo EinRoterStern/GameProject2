@@ -17,15 +17,13 @@ public class Portal : MonoBehaviour
     private void Update()
     {
         // Position
-        Vector3 lookerPosition = Other.transform.worldToLocalMatrix.MultiplyPoint3x4(Camera.main.transform.position);
-        lookerPosition = new Vector3(-lookerPosition.x, lookerPosition.y, -lookerPosition.z);
-        PortalView.transform.localPosition = lookerPosition;
+        PortalView.transform.localPosition = Vector3.zero; 
 
         // Rotation
         Quaternion difference = transform.rotation * Quaternion.Inverse(Other.transform.rotation * Quaternion.Euler(0, 0, 0));
         PortalView.transform.rotation = difference * Camera.main.transform.rotation;
 
         // Clipping
-        PortalView.nearClipPlane = lookerPosition.magnitude;
+        PortalView.nearClipPlane = 0.01f;
     }
 }
