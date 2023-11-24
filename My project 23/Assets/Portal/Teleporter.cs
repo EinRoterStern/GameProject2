@@ -4,7 +4,8 @@ using UnityEngine;
 public class Teleporter : MonoBehaviour
 {
     public Teleporter Other;
-    public float offsetDistance = 1.0f; // Добавьте это поле для управления смещением
+    public float offsetDistance = -1.0f; // Добавьте это поле для управления смещением
+    public Vector3 teleportOffset = new Vector3(0, 0, 2); // Смещение телепортации
     public float disableTime = 1.0f; // Время отключения триггера после телепортации
     private Collider myCollider;
 
@@ -31,11 +32,15 @@ public class Teleporter : MonoBehaviour
             return;
         }
 
-        // Set the new position with a forward offset
-        obj.position = Other.transform.position + obj.forward * offsetDistance; 
+        // Set the new position
+        obj.position = Other.transform.position + teleportOffset; // Добавьте смещение телепортации
 
         // Set the new rotation
         obj.rotation = Other.transform.rotation;
+
+        // Add a forward offset
+        Vector3 forwardInWorldSpace = Other.transform.TransformDirection(Vector3.forward);
+        obj.Translate(forwardInWorldSpace * offsetDistance, Space.World);
 
         // Disable the Other's collider for a short time
         StartCoroutine(DisableCollider(Other.myCollider));
