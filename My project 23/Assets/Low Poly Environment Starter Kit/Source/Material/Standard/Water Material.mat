@@ -2,14 +2,18 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &2100000
 Material:
-  serializedVersion: 6
+  serializedVersion: 8
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Water Material
-  m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
-  m_ShaderKeywords: _DISABLE_SSR_TRANSPARENT
+  m_Shader: {fileID: 10770, guid: 0000000000000000f000000000000000, type: 0}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords:
+  - _DISABLE_SSR_TRANSPARENT
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -22,6 +26,7 @@ Material:
   - TransparentBackface
   - RayTracingPrepass
   - MOTIONVECTORS
+  m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
@@ -85,6 +90,7 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    m_Ints: []
     m_Floats:
     - Vector1_34782233e8914388936ad4eca9972f56: 0.85
     - Vector1_41ed3bbb6ab949baa2babbe593f776aa: 6.57
@@ -112,6 +118,7 @@ Material:
     - _AlphaToMaskInspectorValue: 0
     - _BlendMode: 0
     - _BumpScale: 1
+    - _ColorMask: 15
     - _ConservativeDepthOffsetEnable: 0
     - _CullMode: 2
     - _CullModeForward: 2
@@ -141,6 +148,10 @@ Material:
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
+    - _Stencil: 0
+    - _StencilComp: 8
+    - _StencilOp: 0
+    - _StencilReadMask: 255
     - _StencilRef: 0
     - _StencilRefDepth: 8
     - _StencilRefDistortionVec: 4
@@ -162,15 +173,18 @@ Material:
     - _TransparentZWrite: 0
     - _UVSec: 0
     - _UseShadowThreshold: 0
+    - _UseUIAlphaClip: 0
     - _ZTestDepthEqualForOpaque: 3
     - _ZTestGBuffer: 4
     - _ZTestTransparent: 4
     - _ZWrite: 1
     m_Colors:
-    - Color_962d8a6a077646f68b3a30ea8d07c17c: {r: 0, g: 0.39369527, b: 0.5566038, a: 0}
+    - Color_962d8a6a077646f68b3a30ea8d07c17c: {r: 0, g: 0.39369527, b: 0.5566038,
+        a: 0}
     - Color_adc979e474cd4c52803b73073550b88e: {r: 1, g: 0.6121189, b: 0, a: 0}
     - Color_c4b6043ac1de492fb8bbd1482b723534: {r: 1, g: 0.02545873, b: 0, a: 0}
-    - Color_fac0fcd1e2974160ae513ca0e0dd7154: {r: 0.34349412, g: 0.72556454, b: 0.7830189, a: 0}
+    - Color_fac0fcd1e2974160ae513ca0e0dd7154: {r: 0.34349412, g: 0.72556454, b: 0.7830189,
+        a: 0}
     - _Color: {r: 0, g: 0.71357924, b: 0.754717, a: 1}
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
