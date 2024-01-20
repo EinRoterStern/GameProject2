@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:My project 23/Assets/Assets_winter/Viking Village/Standard Assets/Characters/FirstPersonCharacter/Scripts/MouseLook.cs.meta
 guid: 37e60a97f2c87ae41b6cdc1055d78cb9
+=======
+guid: a700d9802e551cc44bddc7a166d17e02
+>>>>>>> ac9dd719cec0ba4b369ea86970df02ced1be21ee:My project 23/Assets/Assets_winter/Invector-3rdPersonController_LITE/Scripts/Camera/Editor/vThirdPersonCameraEditor.cs.meta
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2

@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<<< HEAD:My project 23/Assets/Assets_winter/Viking Village/Scripts/FlyingRigidbodyFirstPersonController.cs.meta
+guid: 5ac6f4303fc2caf4ea46fe901401e132
+=======
+<<<<<<<< HEAD:My project 23/Assets/Assets_winter/Viking Village/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs.meta
+guid: 05ec5cf00ca181d45a42ba1870e148c3
+>>>>>>> ac9dd719cec0ba4b369ea86970df02ced1be21ee
+========
+guid: 51763bafdae3792488a76927e0169d7a
+>>>>>>>> ac9dd719cec0ba4b369ea86970df02ced1be21ee:My project 23/Assets/Polytope Studio/Lowpoly_Demos/Environment_Free/Helpers/MouseLook.cs.meta
+=======
+guid: 51763bafdae3792488a76927e0169d7a
+>>>>>>> ac9dd719cec0ba4b369ea86970df02ced1be21ee
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

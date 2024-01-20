@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<<< HEAD:My project 23/Assets/Assets_winter/Viking Village/Standard Assets/Characters/FirstPersonCharacter/Prefabs/RigidBodyFPSController.prefab.meta
+guid: c6453f8e1f814744d8b94e5a6d1f9942
+========
+guid: 054bf5cf244ff2e4083cbf8eca205cf0
+>>>>>>>> ac9dd719cec0ba4b369ea86970df02ced1be21ee:My project 23/Assets/TerrainSampleAssets/Prefabs/BushDry_B.prefab.meta
+=======
+guid: 054bf5cf244ff2e4083cbf8eca205cf0
+>>>>>>> ac9dd719cec0ba4b369ea86970df02ced1be21ee
+=======
+guid: 054bf5cf244ff2e4083cbf8eca205cf0
+>>>>>>> ac9dd719cec0ba4b369ea86970df02ced1be21ee
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

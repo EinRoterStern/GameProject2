@@ -1,5 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:My project 23/Assets/ASTROFISH_GAMES.meta
+<<<<<<<< HEAD:My project 23/Assets/ASTROFISH_GAMES.meta
+guid: f252fb14580063d488d1124268ee5bc9
+========
+guid: d3f3f2f7d0405184f9c7521c6471ad2b
+>>>>>>>> 9f98bf8cd340920dfdb200857af3cbda6a520cc9:My project 23/Assets/Animated PBR Chest Demo/Animation.meta
+=======
 guid: c5cffb2134bb84b91a7194c2f4ba42ef
+>>>>>>> parent of 2c489678 (20.01):My project 23/Assets/Assets_winter/Viking Village/Standard Assets/Characters/FirstPersonCharacter.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}

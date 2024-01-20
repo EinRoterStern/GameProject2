@@ -1,5 +1,21 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+guid: 4d00212c39d19ed4b97ce38e8f0b8774
+=======
+guid: 45de1a9ab50e93a4c96e9fbf55d2bd44
+>>>>>>> ac9dd719cec0ba4b369ea86970df02ced1be21ee
+=======
+guid: 45de1a9ab50e93a4c96e9fbf55d2bd44
+>>>>>>> ac9dd719cec0ba4b369ea86970df02ced1be21ee
+=======
+guid: 45de1a9ab50e93a4c96e9fbf55d2bd44
+>>>>>>> ac9dd719cec0ba4b369ea86970df02ced1be21ee
+=======
 guid: 513bfa40f67d7074ba0cc9b3c5264eff
+>>>>>>> parent of b294f311 (новый коммит)
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 8574412962073106934

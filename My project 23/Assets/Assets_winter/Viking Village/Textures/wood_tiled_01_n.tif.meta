@@ -1,4 +1,11 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<<< HEAD:My project 23/Assets/Assets_winter/Viking Village/Textures/wood_tiled_01_n.tif.meta
+=======
+>>>>>>> parent of b294f311 (новый коммит)
 guid: 9201c728a49924940a25defbfc35ad87
 TextureImporter:
   internalIDToNameTable: []
@@ -9,6 +16,31 @@ TextureImporter:
     enableMipMap: 1
     sRGBTexture: 0
     linearTexture: 1
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> ac9dd719cec0ba4b369ea86970df02ced1be21ee
+=======
+>>>>>>> ac9dd719cec0ba4b369ea86970df02ced1be21ee
+guid: 48bb2089aa878c549a47acc06fdee99b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ac9dd719cec0ba4b369ea86970df02ced1be21ee
+=======
+>>>>>>> ac9dd719cec0ba4b369ea86970df02ced1be21ee
+=======
+>>>>>>> ac9dd719cec0ba4b369ea86970df02ced1be21ee
+=======
+>>>>>>> parent of b294f311 (новый коммит)
     fadeOut: 0
     borderMipMap: 0
     mipMapsPreserveCoverage: 0
@@ -17,27 +49,115 @@ TextureImporter:
     mipMapFadeDistanceEnd: 3
   bumpmap:
     convertToNormalMap: 0
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
     externalNormalMap: 1
     heightScale: 0.25
     normalMapFilter: 0
+=======
+=======
+>>>>>>> ac9dd719cec0ba4b369ea86970df02ced1be21ee
+=======
+>>>>>>> ac9dd719cec0ba4b369ea86970df02ced1be21ee
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ac9dd719cec0ba4b369ea86970df02ced1be21ee
+=======
+>>>>>>> ac9dd719cec0ba4b369ea86970df02ced1be21ee
+=======
+>>>>>>> ac9dd719cec0ba4b369ea86970df02ced1be21ee
+=======
+    externalNormalMap: 1
+    heightScale: 0.25
+    normalMapFilter: 0
+>>>>>>> parent of b294f311 (новый коммит)
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+  ignoreMipmapLimit: 0
+>>>>>>> ac9dd719cec0ba4b369ea86970df02ced1be21ee
+=======
+  ignoreMipmapLimit: 0
+>>>>>>> ac9dd719cec0ba4b369ea86970df02ced1be21ee
+=======
+  ignoreMipmapLimit: 0
+>>>>>>> ac9dd719cec0ba4b369ea86970df02ced1be21ee
+=======
+>>>>>>> parent of b294f311 (новый коммит)
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
   seamlessCubemap: 0
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<<< HEAD:My project 23/Assets/Assets_winter/Viking Village/Textures/wood_tiled_01_n.tif.meta
+=======
+>>>>>>> parent of b294f311 (новый коммит)
   textureFormat: -1
   maxTextureSize: 4096
   textureSettings:
     serializedVersion: 2
     filterMode: 2
     aniso: 9
+<<<<<<< HEAD
+========
+=======
+>>>>>>> ac9dd719cec0ba4b369ea86970df02ced1be21ee
+=======
+>>>>>>> ac9dd719cec0ba4b369ea86970df02ced1be21ee
+=======
+>>>>>>> ac9dd719cec0ba4b369ea86970df02ced1be21ee
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+    filterMode: -1
+    aniso: -1
+>>>>>>>> ac9dd719cec0ba4b369ea86970df02ced1be21ee:My project 23/Assets/Polytope Studio/Lowpoly_Demos/Environment_Free/Helpers/PT_texture_W_Alpha.tga.meta
+=======
+>>>>>>> parent of b294f311 (новый коммит)
     mipBias: -100
     wrapU: -1
     wrapV: -1
     wrapW: -1
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> ac9dd719cec0ba4b369ea86970df02ced1be21ee
+=======
+>>>>>>> ac9dd719cec0ba4b369ea86970df02ced1be21ee
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ac9dd719cec0ba4b369ea86970df02ced1be21ee
+=======
+>>>>>>> ac9dd719cec0ba4b369ea86970df02ced1be21ee
+=======
+>>>>>>> ac9dd719cec0ba4b369ea86970df02ced1be21ee
+=======
+>>>>>>> parent of b294f311 (новый коммит)
   nPOTScale: 1
   lightmap: 0
   compressionQuality: 50
@@ -52,7 +172,27 @@ TextureImporter:
   alphaUsage: 1
   alphaIsTransparency: 0
   spriteTessellationDetail: -1
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<<< HEAD:My project 23/Assets/Assets_winter/Viking Village/Textures/wood_tiled_01_n.tif.meta
   textureType: 1
+========
+  textureType: 0
+>>>>>>>> ac9dd719cec0ba4b369ea86970df02ced1be21ee:My project 23/Assets/Polytope Studio/Lowpoly_Demos/Environment_Free/Helpers/PT_texture_W_Alpha.tga.meta
+=======
+  textureType: 0
+>>>>>>> ac9dd719cec0ba4b369ea86970df02ced1be21ee
+=======
+  textureType: 0
+>>>>>>> ac9dd719cec0ba4b369ea86970df02ced1be21ee
+=======
+  textureType: 0
+>>>>>>> ac9dd719cec0ba4b369ea86970df02ced1be21ee
+=======
+  textureType: 1
+>>>>>>> parent of b294f311 (новый коммит)
   textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1
@@ -61,11 +201,42 @@ TextureImporter:
   compressionQualitySet: 0
   textureFormatSet: 0
   ignorePngGamma: 0
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of b294f311 (новый коммит)
   applyGammaDecoding: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 4096
+<<<<<<< HEAD
+========
+    maxTextureSize: 2048
+>>>>>>>> ac9dd719cec0ba4b369ea86970df02ced1be21ee:My project 23/Assets/Polytope Studio/Lowpoly_Demos/Environment_Free/Helpers/PT_texture_W_Alpha.tga.meta
+=======
+=======
+>>>>>>> ac9dd719cec0ba4b369ea86970df02ced1be21ee
+=======
+>>>>>>> ac9dd719cec0ba4b369ea86970df02ced1be21ee
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ac9dd719cec0ba4b369ea86970df02ced1be21ee
+=======
+>>>>>>> ac9dd719cec0ba4b369ea86970df02ced1be21ee
+=======
+>>>>>>> ac9dd719cec0ba4b369ea86970df02ced1be21ee
+=======
+>>>>>>> parent of b294f311 (новый коммит)
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -73,6 +244,51 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> ac9dd719cec0ba4b369ea86970df02ced1be21ee
+=======
+>>>>>>> ac9dd719cec0ba4b369ea86970df02ced1be21ee
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ac9dd719cec0ba4b369ea86970df02ced1be21ee
+=======
+>>>>>>> ac9dd719cec0ba4b369ea86970df02ced1be21ee
+=======
+>>>>>>> ac9dd719cec0ba4b369ea86970df02ced1be21ee
+=======
+>>>>>>> parent of b294f311 (новый коммит)
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -82,15 +298,58 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<<< HEAD:My project 23/Assets/Assets_winter/Viking Village/Textures/wood_tiled_01_n.tif.meta
     internalID: 0
+========
+>>>>>>>> ac9dd719cec0ba4b369ea86970df02ced1be21ee:My project 23/Assets/Polytope Studio/Lowpoly_Demos/Environment_Free/Helpers/PT_texture_W_Alpha.tga.meta
+=======
+    internalID: 0
+>>>>>>> ac9dd719cec0ba4b369ea86970df02ced1be21ee
+=======
+    internalID: 0
+>>>>>>> ac9dd719cec0ba4b369ea86970df02ced1be21ee
+=======
+    internalID: 0
+>>>>>>> ac9dd719cec0ba4b369ea86970df02ced1be21ee
+=======
+    internalID: 0
+>>>>>>> parent of b294f311 (новый коммит)
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
+=======
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+>>>>>>> ac9dd719cec0ba4b369ea86970df02ced1be21ee
+=======
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+>>>>>>> ac9dd719cec0ba4b369ea86970df02ced1be21ee
+=======
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+>>>>>>> ac9dd719cec0ba4b369ea86970df02ced1be21ee
+=======
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+>>>>>>> parent of b294f311 (новый коммит)
   userData: 
   assetBundleName: 
   assetBundleVariant: 

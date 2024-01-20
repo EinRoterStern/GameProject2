@@ -1,5 +1,11 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:My project 23/Assets/Assets_winter/Viking Village/Standard Assets/Characters/FirstPersonCharacter/Audio/Footstep02.wav.meta
 guid: 8bc94ec6ed537e743b481638bdcd503d
+=======
+guid: e399baa1b409da04692e8ca38fc06ebf
+timeCreated: 1445606911
+licenseType: Store
+>>>>>>> ac9dd719cec0ba4b369ea86970df02ced1be21ee:My project 23/Assets/Assets_winter/Invector-3rdPersonController_LITE/Audio/pickup.wav.meta
 AudioImporter:
   externalObjects: {}
   serializedVersion: 6

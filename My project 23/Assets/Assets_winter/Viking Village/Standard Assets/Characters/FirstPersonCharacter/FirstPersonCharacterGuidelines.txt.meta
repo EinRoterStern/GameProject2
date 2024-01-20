@@ -1,6 +1,15 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:My project 23/Assets/Samples/Splines/2.4.0/Spline Examples (requires Shader Graph package)/README.md.meta
+<<<<<<<< HEAD:My project 23/Assets/Samples/Splines/2.4.0/Spline Examples (requires Shader Graph package)/README.md.meta
+guid: 2c110ae88c6c24ec5a67f77ff17eff07
+=======
 guid: bc9b000e9b8028247bd816e159382646
+>>>>>>> parent of 2c489678 (20.01):My project 23/Assets/Assets_winter/Viking Village/Standard Assets/Characters/FirstPersonCharacter/FirstPersonCharacterGuidelines.txt.meta
 TextScriptImporter:
+========
+guid: 80e9a8a06e5355146aa7dcc52ed2cd87
+PrefabImporter:
+>>>>>>>> 9f98bf8cd340920dfdb200857af3cbda6a520cc9:My project 23/Assets/Animated PBR Chest Demo/Prefabs/CameraCentr_D.prefab.meta
   externalObjects: {}
   userData: 
   assetBundleName: 

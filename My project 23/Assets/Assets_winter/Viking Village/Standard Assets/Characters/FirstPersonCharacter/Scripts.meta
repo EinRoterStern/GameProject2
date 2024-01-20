@@ -1,5 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:My project 23/Assets/ASTROFISH_GAMES/MEDIEVAL_SERIES/MEDIEVAL_VILLAGE/MEDIEVAL_VILLLAGE_HD_DEMO/AstroCommon/Scripts.meta
+<<<<<<<< HEAD:My project 23/Assets/ASTROFISH_GAMES/MEDIEVAL_SERIES/MEDIEVAL_VILLAGE/MEDIEVAL_VILLLAGE_HD_DEMO/AstroCommon/Scripts.meta
+guid: 564457b613550784ab9158c71fd166b8
+========
+guid: 84a7b8b7e8e860d49874e4407035a252
+>>>>>>>> 9f98bf8cd340920dfdb200857af3cbda6a520cc9:My project 23/Assets/Animated PBR Chest Demo.meta
+=======
 guid: 5d974ddd1ac764300bd537b6c38bf993
+>>>>>>> parent of 2c489678 (20.01):My project 23/Assets/Assets_winter/Viking Village/Standard Assets/Characters/FirstPersonCharacter/Scripts.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}

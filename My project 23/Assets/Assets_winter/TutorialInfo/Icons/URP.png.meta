@@ -1,5 +1,21 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+guid: 9d5b9a15e15f2094fb075b69de8fedc8
+=======
+guid: 92a24dec14376a44d84281fe9ec7d70a
+>>>>>>> ac9dd719cec0ba4b369ea86970df02ced1be21ee
+=======
+guid: 92a24dec14376a44d84281fe9ec7d70a
+>>>>>>> ac9dd719cec0ba4b369ea86970df02ced1be21ee
+=======
+guid: 92a24dec14376a44d84281fe9ec7d70a
+>>>>>>> ac9dd719cec0ba4b369ea86970df02ced1be21ee
+=======
 guid: 727a75301c3d24613a3ebcec4a24c2c8
+>>>>>>> parent of b294f311 (новый коммит)
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}

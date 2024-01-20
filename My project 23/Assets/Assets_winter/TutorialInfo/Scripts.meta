@@ -1,5 +1,21 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+guid: 7cf489b3c31087848b3e3370c72483a9
+=======
+guid: cc7c1729a13b96546a6248c1feefe01b
+>>>>>>> ac9dd719cec0ba4b369ea86970df02ced1be21ee
+=======
+guid: cc7c1729a13b96546a6248c1feefe01b
+>>>>>>> ac9dd719cec0ba4b369ea86970df02ced1be21ee
+=======
+guid: cc7c1729a13b96546a6248c1feefe01b
+>>>>>>> ac9dd719cec0ba4b369ea86970df02ced1be21ee
+=======
 guid: 5a9bcd70e6a4b4b05badaa72e827d8e0
+>>>>>>> parent of b294f311 (новый коммит)
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
